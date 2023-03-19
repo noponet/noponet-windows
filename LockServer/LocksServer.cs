@@ -45,14 +45,7 @@ namespace LockServer
 
             Console.WriteLine("Server is running and listening for incoming connections...");
 
-            foreach (string file2 in Directory.GetFiles(LockServer.FILES_DIR))
-            {
-                if (!config.ContainsKey(file2))
-                {
-                    WriteConfig(file2, 0);
-                }
-            }
-                while (running)
+            while (running)
             {
                 // Accept an incoming connection
                 Socket clientSocket = serverSocket.Accept();

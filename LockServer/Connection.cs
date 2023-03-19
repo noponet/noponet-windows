@@ -84,7 +84,6 @@ namespace LockServer
                         string list = "";
                         foreach (string file2 in Directory.GetFiles(LockServer.FILES_DIR))
                         {
-
                             list += Path.GetFileName(file2) + ">";
                         }
                         Send("LIST", list);
