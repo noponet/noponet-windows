@@ -1,0 +1,7 @@
+C:\Users\mikef\source\repos\LockServer\LockServer\obj\Debug\LockServer.csproj.AssemblyReference.cache
+C:\Users\mikef\source\repos\LockServer\LockServer\obj\Debug\LockServer.csproj.CoreCompileInputs.cache
+C:\Users\mikef\source\repos\LockServer\LockServer\bin\Debug\LockServer.exe.config
+C:\Users\mikef\source\repos\LockServer\LockServer\bin\Debug\LockServer.exe
+C:\Users\mikef\source\repos\LockServer\LockServer\bin\Debug\LockServer.pdb
+C:\Users\mikef\source\repos\LockServer\LockServer\obj\Debug\LockServer.exe
+C:\Users\mikef\source\repos\LockServer\LockServer\obj\Debug\LockServer.pdb
